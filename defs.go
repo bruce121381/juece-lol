@@ -4,7 +4,7 @@ const (
 	/**
 
 	 */
-	VIDEO_DIR = "./videos/ "
+	VIDEO_DIR = "../videos/"
 	/**
 	50M的上传文件最大大小
 	*/
